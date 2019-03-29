@@ -1,0 +1,9 @@
+{
+  "name": "crawl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/leetuanit/crawl.git",
+  "author": "Lee Tuan",
+  "license": "MIT",
+  "private": true
+}
